@@ -1,0 +1,9 @@
+[package]
+name = "compism"
+version = "0.1.0"
+authors = ["Anciety <ding641880047@126.com>"]
+
+[dependencies]
+libloading = "^0.5"
+failure = "^0.1"
+lazy_static = "^0.2"
